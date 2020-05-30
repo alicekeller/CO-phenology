@@ -21,6 +21,10 @@ summary(cars)
 
 You can also embed plots, for example:
 
+``` r
+plot(cars)
+```
+
 ![](cars_example_files/figure-markdown_github/unnamed-chunk-2-1.png)<!-- -->
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
