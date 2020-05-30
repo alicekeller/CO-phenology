@@ -22,7 +22,7 @@ summary(cars)
 You can also embed plots, for example:
 
 ``` r
-plot(cars)
+plot(cars, echo = FALSE)
 ```
 
 ![CO-phenology](./figures/unnamed-chunk-2-1.png)
